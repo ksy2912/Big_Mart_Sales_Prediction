@@ -40,9 +40,7 @@ The goal of this project was to build a predictive model capable of predicting s
 - Label Encoding
 - PreProcessing Data
 - Modeling
-- Linear Regression
-- RandomForest Regressor
 - XGBoost
-- Deployment
+
 
 
