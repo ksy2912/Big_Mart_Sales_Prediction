@@ -3,8 +3,7 @@
 ## Project Objective
 The purpose of this project is to build a predictive model to find out the sales of each product at a particular store at BigMart.
 This helps the decision makers to find out the properties of any product or store, which play a key role in increasing the overall sales.
-Using this model, we will try to understand the properties of products and outlets which play a key role in increasing sales. Lightgbm gave the 
-best model accuracy of 60% and least absolute error and was therefore used to deploy our model.
+Using this model, we will try to understand the properties of products and outlets which play a key role in increasing sales.
 
 ## Project Description
 The goal of this project was to build a predictive model capable of predicting sales of products at the various stores in Big Mart. 
